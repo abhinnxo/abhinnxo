@@ -1,5 +1,11 @@
-### Hi there 👋
-coming soon 😊
+## Hi there 👋
+
+Hello there, my name is Abhinn Krishn, I'm from The City of Nawabs, Lucknow, India. I'm pursuing my undergrad from Babu Banarasi Das Institute of Technoloy & Management. I love Retrivers🐶 and I will surely adopt a cannine in the future 😊
+
+I'm in 🧡 with JavaScript, I love building ReactJS websites, I also have other skills like Android App Development with Java and React Native, NodeJS, NoSQL databases like MongoDB, UI/UX, Search Engine Optimization and recently accuried badge, Firebase🔥, It is really hot.
+
+I code in most of the popular JavaScript Frameworks and Libraries like, ReactJS, React Native, ExpressJS, Discord.js, etc., I am curently looking for opportunities in the Front-end Web Development Industry. my goal is to understand and provide the best experience and satisfaction to my customer.
+
 
 <!--
 **pikachuonacid/pikachuonacid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
