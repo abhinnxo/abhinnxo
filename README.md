@@ -1,5 +1,5 @@
-### Hi there 👋
-coming soon 😊
+### HELLO THERE, WANDERING TRAVELER!
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/pikachuonacid)
 
 <!--
 **pikachuonacid/pikachuonacid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
