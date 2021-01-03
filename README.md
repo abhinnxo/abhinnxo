@@ -1,4 +1,7 @@
 ### HELLO THERE, WANDERING TRAVELER!
+
+![Steve Hello](./assets/hello-steve.png)
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/pikachuonacid)
 
 <!--
