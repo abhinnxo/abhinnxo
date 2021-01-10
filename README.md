@@ -25,6 +25,12 @@
   <br>
 <strong>Others:</strong> UI/UX, Seo
   </div>
+  ### <h1 align="center">REACH ME OUT HERE ✉</h1>
+  <div>
+    <strong>E-mail:</strong> abhinnk21@gmail.com
+    <br>
+    <strong>Instagram:</strong> [abhinnxo](https://www.instagram.com/abhinnxo/)
+  </div>
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/pikachuonacid)
