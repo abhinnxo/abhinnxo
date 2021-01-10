@@ -1,8 +1,7 @@
 ### <h1 align="center">HELLO THERE, WANDERING TRAVELER! 👋 </h1>
 ![Steve Hello](./assets/hello-steve.png)
 ### <h1 align="center">ABOUT ME ✒</h1>
-<div style="display: flex;">
-  <div style="width:50%;">
+<div>
     Hi! My name is <strong>Abhinn Krishn</strong>.
     <br>
     <strong>Gender:</strong> Male/He/Him.
@@ -11,13 +10,21 @@
     <br>
     <strong>Country:</strong> India 🇮🇳
     <br>
-    <strong>Occupation:</strong> Sophomore Engg. Student
-    </div>
-    <div style="width:50%;">
-      <img src="./assets/icons/android.svg" width="40px">
-    </div>
+    <strong>Occupation:</strong> Sophomore Engg. Student 
 </div>
 
+### <h1 align="center">MY TECH STACK ⚙</h1>
+<div>
+<strong>Programing Languges:</strong> Java(profecient) C/C++, Python
+  <br>
+<strong>Scripting Languages:</strong> JavaScript/ES6 (profecient)
+  <br>
+<strong>Frontend Web Developpment:</strong> ReactJS(proficient), Redux, Bootstrap 5, Tailwind CSS, Materialize CSS
+  <br>
+<strong>Backend Web Development:</strong> Firebase(proficient), MongoDB
+  <br>
+<strong>Others:</strong> UI/UX, Seo
+  </div>
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/pikachuonacid)
