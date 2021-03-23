@@ -29,8 +29,10 @@
   <div>
     <strong>E-mail:</strong> abhinnk21@gmail.com
     <br>
-    <strong>Instagram:</strong>  [Instagram](www.instagram.com/abhinnxo)
+    <strong>Instagram:</strong>  [abhinnxo][1]
   </div>
+  
+  [1]: https://www.instagram.com/abhinnxo/
 
 <!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/pikachuonacid)
