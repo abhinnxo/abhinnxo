@@ -23,13 +23,13 @@
   <br>
 <strong>Backend Web Development:</strong> Firebase(proficient), MongoDB
   <br>
-<strong>Others:</strong> UI/UX, Seo
+    <strong>Others:</strong> <p>UI/UX, Seo</p>
   </div>
   ### <h1 align="center">REACH ME OUT HERE ✉</h1>
   <div>
     <strong>E-mail:</strong> abhinnk21@gmail.com
     <br>
-    <strong>Instagram:</strong> [abhinnxo](https://www.instagram.com/abhinnxo/)
+    <strong>Instagram:</strong> [abhinnxo](https://www.instagram.com/abhinnxo)
   </div>
 
 <!--
