@@ -15,7 +15,7 @@
 
 ### <h1 align="center">MY TECH STACK ⚙</h1>
 <div>
-<strong>Programing Languges:</strong> Java(profecient) C/C++, Python
+<strong>Programing Languges:</strong> Java(profecient), C/C++, Python
   <br>
 <strong>Scripting Languages:</strong> JavaScript/ES6 (profecient)
   <br>
@@ -23,7 +23,7 @@
   <br>
 <strong>Backend Web Development:</strong> Firebase(proficient), MongoDB
   <br>
-    <strong>Others:</strong> UI/UX, Seo
+    <strong>Others:</strong> UI/UX, SEO
   </div>
   <h1 align="center">REACH ME OUT HERE ✉</h1>
   <div>
