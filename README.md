@@ -2,7 +2,7 @@
 ![Steve Hello](./assets/hello-steve.png)
 ### <h1 align="center">ABOUT ME ✒</h1>
 <div>
-    Hi! My name is <strong>Abhinn Krishn</strong>.
+    Hi! My name is <strong>Abhinn Krishn</strong>, I am a Javascript Developer, I primarily work in ReactJS framework, my normal days end up with attending online classes, playing minecraft and watching anime.
     <br>
     <strong>Gender:</strong> Male/He/Him.
     <br>
