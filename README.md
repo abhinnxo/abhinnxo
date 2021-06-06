@@ -19,7 +19,7 @@
   <br>
 <strong>Scripting Languages:</strong> JavaScript/ES6 (profecient)
   <br>
-<strong>Frontend Web Developpment:</strong> ReactJS(proficient), Redux, Bootstrap 5, Tailwind CSS, Materialize CSS
+<strong>Frontend Web Developpment:</strong> ReactJS(proficient), Redux, Bootstrap 5, Tailwind CSS, Material UI
   <br>
 <strong>Backend Web Development:</strong> Firebase(proficient), MongoDB
   <br>
@@ -30,6 +30,8 @@
     <strong>E-mail:</strong> abhinnk21@gmail.com
     <br>
     <strong>Instagram:</strong> @abhinnxo
+    <br>
+    <strong>Twitter:</strong> @abhinnxo
   </div>
   
 
