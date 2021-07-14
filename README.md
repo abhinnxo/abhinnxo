@@ -6,11 +6,8 @@
     <br>
     <strong>Gender:</strong> Male/He/Him.
     <br>
-    <strong>Age:</strong> 19
-    <br>
     <strong>Country:</strong> India 🇮🇳
     <br>
-    <strong>Occupation:</strong> Sophomore Engg. Student 
 </div>
 
 ### <h1 align="center">MY TECH STACK ⚙</h1>
@@ -21,7 +18,7 @@
   <br>
 <strong>Frontend Web Developpment:</strong> ReactJS(proficient), Redux, Bootstrap 5, Tailwind CSS, Material UI
   <br>
-<strong>Backend Web Development:</strong> Firebase(proficient), MongoDB
+<strong>Backend Web Development:</strong> NodeJS(proficient), Firebase(proficient), MongoDB
   <br>
     <strong>Others:</strong> UI/UX, SEO
   </div>
@@ -32,6 +29,8 @@
     <strong>Instagram:</strong> @abhinnxo
     <br>
     <strong>Twitter:</strong> @abhinnxo
+     <br>
+    <strong>Blog:</strong> blog.abhinnkrishn.me
   </div>
   
 
