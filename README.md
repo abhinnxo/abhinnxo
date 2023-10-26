@@ -2,52 +2,31 @@
 ![Steve Hello](./assets/hello-steve.png)
 ### <h1 align="center">ABOUT ME ✒</h1>
 <div>
-    Hi! My name is <strong>Abhinn Krishn</strong>, I am a Javascript Developer, I primarily work in ReactJS framework, my normal days end up with attending online classes, playing minecraft and watching anime.
-    <br>
-    <strong>Pronouns:</strong> He/Him.
-    <br>
-    <strong>Country:</strong> India 🇮🇳
-    <br>
+    Hi! My name is <strong>Abhinn Krishn</strong>, a passionate JavaScript Developer with a focus on ReactJS. I spend my days writing code, debugging, and crafting delightful user experiences. I believe in the power of clean code and beautiful designs.  
+    
+    
+### What I Do
+
+- 💻 I specialize in front-end development, crafting intuitive user interfaces with HTML, CSS, and JavaScript.
+- 🛠️ I'm proficient with modern web technologies, including React, Next, Tailwind, etc.
+- 🎨 I have an eye for design and a strong commitment to creating responsive and visually appealing websites.
+- 🧩 I enjoy solving puzzles and turning complex problems into elegant solutions.
+<br>
+<strong>Pronouns:</strong> He/Him.
+<br>
+<strong>Country:</strong> India 🇮🇳
+<br>
 </div>
 
 ### <h1 align="center">MY TECH STACK ⚙</h1>
-<div>
-<strong>Programing Languges:</strong> Java(profecient), C/C++, Python
-  <br>
-<strong>Scripting Languages:</strong> JavaScript/ES6 (profecient)
-  <br>
-<strong>Frontend Web Developpment:</strong> ReactJS(proficient), Redux, Bootstrap 5, Tailwind CSS, Material UI
-  <br>
-<strong>Backend Web Development:</strong> NodeJS(proficient), Firebase(proficient), MongoDB
-  <br>
-    <strong>Others:</strong> UI/UX, SEO
-  </div>
-  <h1 align="center">REACH ME OUT HERE ✉</h1>
-  <div>
-    <strong>E-mail:</strong> abhinnk21@gmail.com
-    <br>
-    <strong>Instagram:</strong> @abhinnxo
-    <br>
-    <strong>Twitter:</strong> @abhinnxo
-     <br>
-    <strong>Blog:</strong> blog.abhinnkrishn.me
-  </div>
-  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,py,netlify,vercel,heroku,vscode,firebase,sass,nodejs,bootstrap,tailwind,git,md)](https://skillicons.dev)
+ 
+### <h1 align="center">REACH ME OUT HERE ✉</h1>
 
-<!--
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/pikachuonacid)
--->
-<!--
-**pikachuonacid/pikachuonacid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/abhinnxo/)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/abhinnxo/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abhinnkrishn/)
 
-Here are some ideas to get you started:
+### Let's Collaborate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories, and if you like what you see, don't hesitate to give them a star! Let's connect and collaborate on exciting projects. ✨
