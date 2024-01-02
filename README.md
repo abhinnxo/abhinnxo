@@ -19,7 +19,7 @@
 </div>
 
 ### <h1 align="center">MY TECH STACK ⚙</h1>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,py,netlify,vercel,heroku,vscode,firebase,sass,nodejs,bootstrap,tailwind,git,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,py,netlify,vercel,heroku,vscode,firebase,sass,nodejs,bootstrap,tailwind,git,md,docker)](https://skillicons.dev)
  
 ### <h1 align="center">REACH ME OUT HERE ✉</h1>
 
