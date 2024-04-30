@@ -1,4 +1,4 @@
-### <h1 align="center">HELLO THERE, WANDERING TRAVELER! 👋 </h1>
+### <h1 align="center">HELLO THERE, WANDERING TRAVELER! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </h1>
 ![Steve Hello](./assets/hello-steve.png)
 ### <h1 align="center">ABOUT ME ✒</h1>
 <div>
@@ -19,7 +19,7 @@
 </div>
 
 ### <h1 align="center">MY TECH STACK ⚙</h1>
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,py,netlify,vercel,heroku,vscode,firebase,sass,nodejs,bootstrap,tailwind,git,md,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,graphql,html,css,py,netlify,vercel,heroku,vscode,firebase,sass,nodejs,bootstrap,tailwind,git,md,docker,raspberrypi)](https://skillicons.dev)
  
 ### <h1 align="center">REACH ME OUT HERE ✉</h1>
 
