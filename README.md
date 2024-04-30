@@ -2,20 +2,11 @@
 ![Steve Hello](./assets/hello-steve.png)
 ### <h1 align="center">ABOUT ME ✒</h1>
 <div>
-    Hi! My name is <strong>Abhinn Krishn</strong>, a passionate JavaScript Developer with a focus on ReactJS. I spend my days writing code, debugging, and crafting delightful user experiences. I believe in the power of clean code and beautiful designs.  
+    Hi! My name is <strong>Abhinn Krishn</strong>, a passionate JavaScript Developer with a focus on ReactJS and NextJS. I am based out in India.  
+    Currently working in Techpix.
     
     
-### What I Do
 
-- 💻 I specialize in front-end development, crafting intuitive user interfaces with HTML, CSS, and JavaScript.
-- 🛠️ I'm proficient with modern web technologies, including React, Next, Tailwind, etc.
-- 🎨 I have an eye for design and a strong commitment to creating responsive and visually appealing websites.
-- 🧩 I enjoy solving puzzles and turning complex problems into elegant solutions.
-<br>
-<strong>Pronouns:</strong> He/Him.
-<br>
-<strong>Country:</strong> India 🇮🇳
-<br>
 </div>
 
 ### <h1 align="center">MY TECH STACK ⚙</h1>
